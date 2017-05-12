@@ -13,7 +13,7 @@ Login-AzureAsAccount
 
 Add-AzureAccount
 
-	
+#Comentário	
 Install-Module AzureRM
 Login-AzureRmAccount
 
